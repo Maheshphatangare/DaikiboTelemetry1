@@ -1,1 +1,18 @@
-
+[
+  {
+    "timestamp_ms": 1696161600000,
+    "machine": "M2",
+    "state": "running",
+    "temp": 72.0,
+    "press": 98.0,
+    "vib": 0.4
+  },
+  {
+    "timestamp_ms": 1696161660000,
+    "machine": "M2",
+    "state": "running",
+    "temp": 73.0,
+    "press": 99.0,
+    "vib": 0.5
+  }
+]
